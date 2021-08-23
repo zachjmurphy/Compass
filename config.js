@@ -4,6 +4,7 @@
 // / /__| (_) | | | | | | |_) | (_| \__ \__ \
 // \____/\___/|_| |_| |_| .__/ \__,_|___/___/
 //                      |_|                  
+//
 // ┌─┐┌─┐┌┐┌┌─┐┬┌─┐┬ ┬┬─┐┌─┐┌┬┐┬┌─┐┌┐┌
 // │  │ ││││├┤ ││ ┬│ │├┬┘├─┤ │ ││ ││││
 // └─┘└─┘┘└┘└  ┴└─┘└─┘┴└─┴ ┴ ┴ ┴└─┘┘└┘
@@ -40,7 +41,7 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
+      name: 'GitHub',
       icon: 'github',
       link: 'https://www.github.com/',
     },
@@ -54,11 +55,11 @@ const CONFIG = {
       id: '3',
       name: 'Discord',
       icon: 'message-square',
-      link: 'https://discord.com/',
+      link: 'https://www.discord.com/',
     },
     {
       id: '4',
-      name: 'Onedrive',
+      name: 'OneDrive',
       icon: 'archive',
       link: 'https://www.onedrive.com/',
     },
@@ -88,38 +89,38 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Spotify',
+        link: 'https://www.spotify.com/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Deezer',
+        link: 'https://www.deezer.com/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Soundcloud',
+        link: 'https://www.soundcloud.com/',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'YouTube Music',
+        link: 'https://music.youtube.com/',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Photopea',
+        link: 'https://www.photopea.com/',
       },
       {
         name: 'Figma',
-        link: 'https://figma.com/',
+        link: 'https://www.figma.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Google',
+        link: 'https://www.google.ca/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'DeviantArt',
+        link: 'https://www.deviantart.com/',
       },
     ],
   },

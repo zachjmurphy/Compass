@@ -1,7 +1,7 @@
 {
-  "name": "bento",
-  "version": "1.2.0",
-  "description": "🍱 Minimalist, elegant and hackable startpage inspired by the Bento box!",
-  "author": "Miguel R. Ávila",
-  "license": "ISC"
+  "name": "compass",
+  "version": "0.0.1",
+  "description": "🧭 Compass is a feature-rich New Tab page designed for speed.",
+  "author": "Zach J Murphy",
+  "license": "Apache-2.0"
 }
